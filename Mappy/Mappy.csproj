@@ -5,12 +5,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\KamiLib\KamiLib.csproj"/>
+        <ProjectReference Include="..\KamiLib\KamiLib.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-        <Reference Include="SharpDX" Private="false"/>
-        <Reference Include="SharpDX.Direct3D11" Private="false"/>
-        <Reference Include="SharpDX.DXGI" Private="false"/>
+        <Reference Include="SharpDX" Private="false" />
+        <Reference Include="SharpDX.Direct3D11" Private="false" />
+        <Reference Include="SharpDX.DXGI" Private="false" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dalamud.NET.Sdk" Version="13.0.0" />
     </ItemGroup>
 </Project>
