@@ -1,0 +1,16 @@
+C:\dev\Mappy\Mappy\bin\x64\Debug\Mappy.deps.json
+C:\dev\Mappy\Mappy\bin\x64\Debug\Mappy.dll
+C:\dev\Mappy\Mappy\bin\x64\Debug\HtmlAgilityPack.dll
+C:\dev\Mappy\Mappy\bin\x64\Debug\Karashiiro.HtmlAgilityPack.CssSelectors.NetCoreFork.dll
+C:\dev\Mappy\Mappy\bin\x64\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\dev\Mappy\Mappy\bin\x64\Debug\NetStone.dll
+C:\dev\Mappy\Mappy\bin\x64\Debug\Newtonsoft.Json.dll
+C:\dev\Mappy\Mappy\bin\x64\Debug\KamiLib.dll
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.csproj.AssemblyReference.cache
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.AssemblyInfoInputs.cache
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.AssemblyInfo.cs
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.csproj.CoreCompileInputs.cache
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.sourcelink.json
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.csproj.Up2Date
+C:\dev\Mappy\Mappy\obj\x64\Debug\Mappy.dll

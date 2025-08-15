@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmHwKxGwTvg=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Mappy\\Mappy\\Mappy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N8\\.nuget\\packages\\dalamud.net.sdk\\13.0.0\\dalamud.net.sdk.13.0.0.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\dalamudpackager\\13.0.0\\dalamudpackager.13.0.0.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.2.25\\dotnet.reproduciblebuilds.1.2.25.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\karashiiro.htmlagilitypack.cssselectors.netcorefork\\0.0.2\\karashiiro.htmlagilitypack.cssselectors.netcorefork.0.0.2.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\microsoft.extensions.objectpool\\10.0.0-preview.6.25358.103\\microsoft.extensions.objectpool.10.0.0-preview.6.25358.103.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\netstone\\1.1.1\\netstone.1.1.1.nupkg.sha512",
+    "C:\\Users\\N8\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
